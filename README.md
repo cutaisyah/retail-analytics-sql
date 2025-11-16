@@ -4,7 +4,6 @@ This project is a **retail data analytics** capstone using **PostgreSQL** and **
 It analyzes transactions, products, users, and reviews from a sample e-commerce dataset.
 
 ---
-
 ## Project Structure
 .
 ├── .gitignore
@@ -12,6 +11,7 @@ It analyzes transactions, products, users, and reviews from a sample e-commerce 
 ├── pgdata_purwadika/ # Postgres data volume (ignored)
 ├── sql_dump/ # Optional: SQL dump files
 └── Retail_Analytics.ipynb # Jupyter Notebook with SQL queries and results
+---
 
 ## Key Features
 
