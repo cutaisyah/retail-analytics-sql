@@ -3,7 +3,7 @@ services:
   postgres_capstone:
     image: "postgres:13"
     ports:
-      - "5432:5432"
+      - "5462:5432"
     volumes:
       - ./pgdata_purwadika:/var/lib/postgresql/data
     environment:
