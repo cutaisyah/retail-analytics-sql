@@ -3,8 +3,9 @@
 This project is a **retail data analytics** capstone using **PostgreSQL** and **SQL queries**.  
 It analyzes transactions, products, users, and reviews from a sample e-commerce dataset.
 
-```
+
 ## Project Structure
+```
 .
 ├── .gitignore
 ├── docker-compose.yml # PostgreSQL + Adminer setup
